@@ -4,5 +4,4 @@ numpy
 ccxt
 plotly
 scikit-learn
-tensorflow
 tabulate
